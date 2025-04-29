@@ -75,3 +75,5 @@ str2 = str1[0:0:-1]
 str3 = "Đ" + str1[1:]
 print(str2)
 print(str3)
+
+print(str2, str3)

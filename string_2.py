@@ -3,7 +3,9 @@ strb = 'My friends: %s, %s, %s.' %('Jim','Tom','Harry')
 numa = '%d' %(7)
 numb = '%d - %d = %d' %(10,3,7)
 numc = '%.3f is a float' %(3.14141414)
-print(stra)
+print(str
+
+	a)
 print(strb)
 print(numa)
 print(numb)
@@ -47,7 +49,7 @@ print(x1)
 print(y)
 print(z)
 print(xyz)
-
+print(x1,y)
 # Table
 
 # ---- phần định dạng 
